@@ -9,6 +9,13 @@ For training the model, we will be using a crowdsourced sentence-level automatic
 ### Competition Link and Final Leaderboard
 [DLSprint2022 Kaggle](https://www.kaggle.com/competitions/dlsprint/discussion/349991)
 
+<p align="center">
+    <img src="img.png?raw=true" width = "70%"/>
+</p>
+<p align="center">
+    <img src="img2.png?raw=true" width = "70%"/>
+</p>
+
 ### Preprocessing Notebooks
 [Preprocessing_Stage1](https://www.kaggle.com/code/sameen53/yellowking-dlsprint-datapreprocessingv1)
 [Preprocessing_Stage2](https://www.kaggle.com/code/sameen53/yellowking-dlsprint-datapreprocessingv2)
